@@ -1,0 +1,6 @@
+{
+	"title": "Android Voltage Changer",
+	"version": "1.0.0",
+	"author": "rpiguy",
+	"description": "Injects Android OS patch which changes voltage"
+}
